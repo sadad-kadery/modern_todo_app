@@ -1,0 +1,82 @@
+{
+   "checksum": "3707fc8f48ab346b9562a29dedcfcaa7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13372433592930895",
+            "date_last_used": "0",
+            "guid": "e4df1c9c-5c0c-4b54-ba82-2201f257cb1c",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Outlier",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.outlier.ai/en/expert",
+            "visit_count": 1
+         }, {
+            "date_added": "13372191295838992",
+            "date_last_used": "0",
+            "guid": "e55b8aa6-f907-4278-8722-d1c444bcf061",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inbox (62) - mithilakadery1996@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox",
+            "visit_count": 1
+         }, {
+            "date_added": "13372435880194103",
+            "date_last_used": "13373076088391282",
+            "guid": "606b12ce-1b02-4c18-a7e9-cfda6f063096",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Slack",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.slack.com/client/T06KYD9DJ4E/C07NWQB62JU",
+            "visit_count": 3
+         } ],
+         "date_added": "13373654408821604",
+         "date_last_used": "0",
+         "date_modified": "13372435880194103",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13373654408821610",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13373654408821611",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCHvAMJuSAQAAKg4QABgBIAAoBTAAOABAABIAKhhiZ0Y3UlFNTi9EUHd5V1JML1lJTThnPT1IA6AGDBKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQzMzE5MzFkZi02ZTlhLTU3YjAtOGFlNC01MzMxZmNkYWU1YWQYACAAKAAwhp3rxcswOImi68XLMECJouvFyzBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIBxKnAQocSWZLSlJNYUlsaUVNcmZybmNTN3FqeGhUUnBnPRIkZTU1YjhhYTYtZjkwNy00Mjc4LTg3MjItZDFjNDQ0YmNmMDYxGAAgACgAMJbf/5+kMjjl4P+fpDJA5eD/n6QyShxFRmpUKzFXNndDdWl1QlJTS29RVUJXeFR4Ykk9Wh4iHGx6WEV0NlpzOEI4d29YZStWUEdtZ28yNzFtVT1lmz2FtsI+AmAFEqwBCAYSpwEKHHJrOStSOUFidEFBZExlY1ZsODVMNWlNeitKWT0SJGU0ZGYxYzljLTVjMGMtNGI1NC1iYTgyLTIyMDFmMjU3Y2IxYxgAIAAoADCV+bWlpTI4udjFk6UyQLnYxZOlMkocUTQ2ZFoxUVg2WEFpTWszTlp3RW1RUVNwM3U4PVoeIhxTeGRVWVROdUZKc2pkRzR1a2loWUF6TjBxRWM9ZaI0Li7CPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRiNTliZDI1NS03ZDBiLTUyNGEtODY5ZC0zMzY3YWVkZmJhNWQYACAAKAAwhZ3rxcswOOqh68XLMEDqoevFyzBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEICBKoAQocM1NaTzNmVldYS2ZuR3pweFgzMnQyK0lQcTlzPRIkNjA2YjEyY2UtMWIwMi00YzE4LWE3ZTktY2ZkYTZmMDYzMDk2GAAgACgAMIfMotCnMjjV9c+UpTJA1fXPlKUyShwySzdKVTFmcVpTdmFTSTFxVWI4Zkx1Zk5RNWM9Wh8iHds4cjVmcTk5ZW5IeGNzTng3eUd2V3FBMGo0ZGM9ZSXJkB3CPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQzZWQ4MWM2Ni05M2I3LTU1YTUtODc1ZC1kMzIwMTllNWVhMjQYACAAKAAwi53rxcswOOSj68XLMEDko+vFyzBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
